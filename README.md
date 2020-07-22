@@ -2,7 +2,8 @@
 Hi, my name is John. My friends call me Kopka. I am studying Computer Science at university. I am interested in web development and web technologies. Especially I focus on JavaScript. 💻
 
 
-![kopkaa github stats](https://github-readme-stats.vercel.app/api?username=kopkaa&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkaa&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 I enjoy learning new things not only from my industry\
 📫 Contact me -  kopkayan@outlook.cz
