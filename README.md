@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm John 👋
+Hi, my name is John. My friends call me Kopka. I am studying Computer Science at university. I am interested in web development and web technologies. Especially I focus on JavaScript. 💻
+
+![kopkaa github stats]
+(https://github-readme-stats.vercel.app/api?username=kopkaa&show_icons=true)
+
+📚 I enjoy learning new things not only from my industry\
+📫 Contact me -  kopkayan@outlook.cz
 
 <!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
