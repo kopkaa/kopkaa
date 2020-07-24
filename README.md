@@ -6,8 +6,8 @@ Hi, my name is John. My friends call me Kopka. I am studying Computer Science at
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 I enjoy learning new things not only from my industry\
-📫 Contact me -  kopkayan@outlook.cz
-⚒ Currently working in LinuxBox
+📫 Contact me -  kopkayan@outlook.cz\
+⚒ Currently working in LinuxBox as JavaScript developer
 
 <!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
