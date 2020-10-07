@@ -7,7 +7,6 @@ Hi, my name is John.  I am studying Computer Science at university. I am interes
 
 📚 I enjoy learning new things not only from my industry\
 📫 Contact me -  kopkayan@outlook.cz\
-⚒ Currently working in LinuxBox as JavaScript developer
 
 <!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
