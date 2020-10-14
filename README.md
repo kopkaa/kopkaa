@@ -1,5 +1,5 @@
-### Hi there, I'm John 👋
-Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. Especially I focus on JavaScript. 💻
+### Hi there 👋
+Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. 💻
 
 
 ![Kopkaa's github stats](https://github-readme-stats.vercel.app/api?username=kopkaa&show_icons=true&theme=dracula)
