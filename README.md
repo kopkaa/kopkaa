@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&color=131126&text=%20Hi%20there%20👋&fontSize=40&textBg=false&fontAlign=50&fontAlignY=50&fontColor=e63e87)
-Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. 💻
-
 
 ![Kopkaa's github stats](https://github-readme-stats.vercel.app/api?username=kopkaa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. 💻
 📚 I enjoy learning new things not only from my industry\
 📫 Contact me -  kopkayan@outlook.cz\
 
