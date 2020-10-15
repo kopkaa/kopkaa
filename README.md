@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&color=131126&text=%20Hi%20there%20👋&fontSize=40&textBg=false&fontAlign=50&fontAlignY=50&fontColor=e63e87)
 Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. 💻
 
 
