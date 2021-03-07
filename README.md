@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&color=131126&text=%20Hi%20there%20👋&fontSize=40&textBg=false&fontAlign=50&fontAlignY=50&fontColor=e63e87)
-
+## Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
 ![Kopkaa's github stats](https://github-readme-stats.vercel.app/api?username=kopkaa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkaa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkaa&show_icons=true&theme=dracula&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, my name is John.  I am studying Computer Science at university. I am interested in web development and web technologies. <br>
 💻 Technologies I use: JavaScript ES6, HTML5, CSS3, Vue.js, Express.js, PostgreSQL, Git, Windows, Linux <br>
