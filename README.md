@@ -1,4 +1,10 @@
 ## Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
+<p align="center">
+
+  <img src="https://i.pinimg.com/originals/49/60/26/49602633a5ebc7246beedac09dd2837b.gif" alt="Coder GIF" width="100%" height="360">
+  
+</p>
+
 Hi, my name is John.  I am studying Computer Science at university VŠB in Ostrava 🏛️ I am interested in web development and web technologies 🧑‍💻 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-hrom%C3%A1dka-ba3820197//)
