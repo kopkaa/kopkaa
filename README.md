@@ -1,9 +1,11 @@
 ## Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="Coding GIF" width="400 height="360">
+  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="600" height="400">
   
 </p>
+
+
 
 Hi, my name is John.  I am studying Computer Science at university VŠB in Ostrava 🏛️ I am interested in web development and web technologies 🧑‍💻 <br>
 
