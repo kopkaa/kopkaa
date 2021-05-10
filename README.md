@@ -11,7 +11,7 @@ Hi, my name is John.  I am studying Computer Science at university VŠB in Ostra
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-hrom%C3%A1dka-ba3820197//)
 
-💻 Technologies I use: JavaScript ES6, HTML5, CSS3, Vue.js, Express.js, PostgreSQL, Git, Windows, Linux <br>
+💻 Technologies I use: JavaScript ES6, HTML5, CSS3, Vue.js, Express.js, Sequelize, PostgreSQL, Git, Windows, Linux <br>
 📚 I enjoy learning new things not only from my industry<br>
 📫 Contact me -  kopkayan@outlook.cz<br>
 
