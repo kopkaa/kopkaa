@@ -7,7 +7,7 @@
 
 
 
-Hi, my name is John.  I graduated in Computer Science at university VŠB in Ostrava 🏛️ I am interested in web development and web technologies 🧑‍💻 <br>
+Hi, my name is John. I'm Interested in web development and web technologies 🧑‍💻 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-hrom%C3%A1dka-ba3820197//)
 
