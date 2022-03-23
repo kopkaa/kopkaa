@@ -18,7 +18,6 @@ Hi, my name is John. I'm Interested in web development and web technologies 🧑
 ### 📊 Github Stats
 <a href='https://github.com/kopkaa/github-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/kopkaa/github-stats/master/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/kopkaa/github-stats/master/generated/languages.svg)
  </a>
 
