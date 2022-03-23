@@ -1,7 +1,7 @@
-## Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
+## 💾  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
 <p align="center">
 
-  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" width="600" height="400">
+  <img src="https://media4.giphy.com/media/CdxBRh8v9pVJIrd4J3/giphy.gif?cid=ecf05e47v0l868lhjn3zl7ebs65ebozhiqs3jzl61q59mw3b&rid=giphy.gif&ct=g" alt="Coder GIF" width="600" height="400">
   
 </p>
 
