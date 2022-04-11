@@ -7,7 +7,7 @@
 
 
 
-INTR3ST3D 1N WE3 D3V3L0PMNT
+Interested in web development
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-hrom%C3%A1dka-ba3820197//)
 
