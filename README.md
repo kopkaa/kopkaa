@@ -1,4 +1,4 @@
-## H33L0 G1T HUB!  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
+## H33L0, G1T HUB!  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
 <p align="center">
 
   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47flo0q9e97msq9ezd6k0tqmbwhudkpyy5olgzdtz4&rid=giphy.gif&ct=g" alt="Coder GIF" width="600" height="400">
