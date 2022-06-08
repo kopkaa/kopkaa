@@ -1,7 +1,7 @@
 ## H33L0, G1T HUB!  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
 <p align="center">
 
-  <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47flo0q9e97msq9ezd6k0tqmbwhudkpyy5olgzdtz4&rid=giphy.gif&ct=g" alt="Coder GIF" width="600" height="400">
+<a href="https://app.daily.dev/kopkaa"><img src="https://api.daily.dev/devcards/e6989578ddde4dd8b0e3292f7dba88f7.png?r=cqc" width="400" alt="Jan Hromádka's Dev Card"/></a>
   
 </p>
 
@@ -11,7 +11,9 @@ Interested in web development
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-hrom%C3%A1dka-ba3820197//)
 
-💻 JS ES6, TypeScript, HTML5, CSS3, Vue.js, Express.js, Sequelize, Kotlin, MariaDB, Git, Linux, VSCode <br>
+My actual tech stack I enjoy:<br>
+💻 JS ES6, TypeScript, HTML5, CSS3, Vue.js, Node.js, Express.js, Kotlin, MariaDB, Git, Linux, Docker <br> <br>
+
 📫 Contact me -  kopkayan@outlook.cz<br>
 
 ### 📊 Github Stats
