@@ -1,8 +1,5 @@
 ## H33L0, G1T HUB!  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kopkaa.kopkaa&style=flat-square&color=0088cc)
-<p align="center">
 
-
-<!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
