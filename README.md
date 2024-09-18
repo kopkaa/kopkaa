@@ -9,11 +9,6 @@ My actual tech stack I enjoy:<br>
 
 📫 Contact me -  kopkayan@outlook.cz<br>
 
-### 📊 Github Stats
-<a href='https://github.com/kopkaa/github-stats'>
-  
-![Most Used Languages](https://raw.githubusercontent.com/kopkaa/github-stats/master/generated/languages.svg)
- </a>
 
 <!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
