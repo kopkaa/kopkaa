@@ -2,14 +2,6 @@
 <p align="center">
 
 
-Interested in web development
-
-My actual tech stack I enjoy:<br>
-💻 JS ES6, TypeScript, HTML5, CSS3, Vue.js, Node.js, Express.js, Kotlin, MariaDB, Git, Linux, Docker <br> <br>
-
-📫 Contact me -  kopkayan@outlook.cz<br>
-
-
 <!--
 **kopkaa/kopkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
