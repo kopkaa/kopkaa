@@ -2,8 +2,10 @@
 
 👨‍💻 | Full-Stack Developer<br><br>
 
-🌍 Tech Stack I Enjoy:<br>
-Frontend: Vue.js, Nuxt.js, TypeScript 🌐<br>
-Backend: Node.js, APIs, PostgreSQL, MySQL ⚙️<br>
-Styling: Tailwind CSS, Component Libraries (Nuxt UI, Quasar, shadcn) 🎨<br>
-Build Tools: Vite ⚡
+🌍 Tech Stack I Enjoy:
+
+- **Frontend**: Vue.js, Nuxt.js, TypeScript 🌐
+- **Backend**: Node.js, APIs, PostgreSQL, MySQL ⚙️
+- **Styling**: Tailwind CSS, Component Libraries (Nuxt UI, Quasar, shadcn) 🎨
+- **Build Tools**: Vite ⚡
+
