@@ -5,7 +5,7 @@
 🌍 Tech Stack I Enjoy:
 
 - **Frontend**: Vue.js, Nuxt.js, TypeScript 🌐
-- **Backend**: Node.js, APIs, PostgreSQL, MySQL ⚙️
+- **Backend**: Node.js, Kotlin, Micronaut, PostgreSQL, MySQL ⚙️
 - **Styling**: Tailwind CSS, Component Libraries (Nuxt UI, Quasar, shadcn) 🎨
 - **Build Tools**: Vite ⚡
 
