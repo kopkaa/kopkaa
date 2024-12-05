@@ -9,11 +9,11 @@
 - **Styling**: Tailwind CSS, Component Libraries (Nuxt UI, Quasar, shadcn) 🎨
 - **Build Tools**: Vite ⚡
 
-## 🌟 GitHub Stats
-![GitHub Stats](https://raw.githubusercontent.com/kopkaa/github-stats/main/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/kopkaa/github-stats/main/generated/languages.svg)
+🌟 GitHub Stats
+![GitHub Stats](https://github.com/kopkaa/github-stats/main/generated/overview.svg)
+![Languages](https://github.com/kopkaa/github-stats/main/generated/languages.svg)
 
-## 🚀 Let's Connect
+🚀 Let's Connect
 - 🌐 [Portfolio](https://jhromadka.dev/)
 
 
