@@ -10,8 +10,9 @@
 - **Build Tools**: Vite ⚡
 
 🌟 GitHub Stats
-![GitHub Stats](https://github.com/kopkaa/github-stats/main/generated/overview.svg)
-![Languages](https://github.com/kopkaa/github-stats/main/generated/languages.svg)
+
+![GitHub Stats](https://github.com/kopkaa/github-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/kopkaa/github-stats/blob/master/generated/languages.svg)
 
 🚀 Let's Connect
 - 🌐 [Portfolio](https://jhromadka.dev/)
